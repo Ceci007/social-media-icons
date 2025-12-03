@@ -10,31 +10,31 @@ function App() {
     <div className="wrapper">
       <div className="button">
         <div className="icon">
-          <FaFacebookF />
+          <FaFacebookF size={26}  />
         </div>
         <span>Facebook</span>
       </div>
       <div className="button">
         <div className="icon">
-        <FaTwitter />
+        <FaTwitter size={26} />
         </div>
         <span>Twitter</span>
       </div>
       <div className="button">
         <div className="icon">
-          <FaInstagram />
+          <FaInstagram size={26} />
         </div>
         <span>Instagram</span>
       </div>
       <div className="button">
         <div className="icon">
-        <FaGithub />
+        <FaGithub size={26} />
         </div>
         <span>Github</span>
       </div>
       <div className="button">
         <div className="icon">
-        <FaYoutube />
+        <FaYoutube size={26} />
         </div>
         <span>Youtube</span>
       </div>
